@@ -1,6 +1,6 @@
 # Questions 3:
 
-Write a code snippet to find the dimensions of a ndarray and its size.
+Write a code snippet to find the dimensions of and array and its size.
 
 import numpy as np
 
