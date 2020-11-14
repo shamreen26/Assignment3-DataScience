@@ -1,0 +1,19 @@
+# Questions 1:
+
+Create a numpy array starting from 2 till 50 with a stepsize of 3.
+
+# importing numpy package.
+import numpy as np  
+
+# numpy.arange(start, stop, step)
+my_array = np.arange(2, 51, 3)  
+# printing of an array created by arrange function...
+print(my_array) 
+
+(or)
+print(np.arange(2, 51, 3))
+
+
+Output :
+
+[ 2  5  8 11 14 17 20 23 26 29 32 35 38 41 44 47 50]
