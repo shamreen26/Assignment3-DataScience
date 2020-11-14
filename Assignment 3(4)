@@ -1,7 +1,7 @@
 # Questions 4:
 
 -How to convert a 1D array into a 2D array? 
--Demonstrate with the help of a code snippet
+-Demonstrate with the help of a code snippet.
 Hint: np.newaxis, np.expand_dims
 
 import numpy as np
