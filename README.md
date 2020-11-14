@@ -9,3 +9,7 @@
 
 4.How to convert a 1D array into a 2D array? Demonstrate with the help of a code snippet.
 Hint: np.newaxis, np.expand_dims
+
+5.Consider two square numpy arrays.Stack them vertically and horizontally.
+Hint: Use vstack(), hstack()
+
