@@ -13,3 +13,6 @@ Hint: np.newaxis, np.expand_dims
 5.Consider two square numpy arrays.Stack them vertically and horizontally.
 Hint: Use vstack(), hstack()
 
+6.How to get unique items and counts of unique items?
+
+
