@@ -1,0 +1,18 @@
+# Questions 3:
+
+Write a code snippet to find the dimensions of a ndarray and its size.
+
+import numpy as np
+
+my_array_one = np.array([[1, 4, 5], [3, 6, 8], [1, 4, 5], [3, 6, 8]])
+print("Calculating Dimensions of and array is :", my_array_one.ndim)
+
+print("Size of an array is :", my_array_one.size)
+
+Output :
+
+Calculating Dimensions of and array is : 2
+Size of an array is : 12
+
+
+
