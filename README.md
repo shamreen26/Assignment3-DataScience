@@ -2,3 +2,5 @@
 
 
 1.Create a numpy array starting from 2 till 50 with a stepsize of 3.
+
+2.Accept two lists of 5 elements each from the user.Convert them to numpy arrays.Concatenate these arrays and print it.Also sort these arrays and print it.
